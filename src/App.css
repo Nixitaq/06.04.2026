@@ -18,3 +18,22 @@ li *
     padding: 4px;
     background-color: rgb(113, 170, 151);
 }
+#main
+{
+    text-align: center;
+    background-color: rgb(177, 149, 204);
+}
+.container {
+  display: flex;
+  align-items: center; 
+  gap: 20px;          
+}
+
+.Image img {
+  width: 200px;        
+  height: auto;
+}
+
+.Text p {
+  margin: 5px;
+}
